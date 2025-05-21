@@ -13,9 +13,9 @@ Throughout this assignment I tested various ML models (Decision Trees, Random Fo
 
 This yielded the following results:
 
-<img width="232" alt="image" src="https://github.com/user-attachments/assets/233a74bc-0a55-4f70-b0d2-0cf08e2eb780" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/233a74bc-0a55-4f70-b0d2-0cf08e2eb780" />
 
-<img width="218" alt="image" src="https://github.com/user-attachments/assets/29c0793b-fee5-4707-8f7b-4a4438767835" />
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/29c0793b-fee5-4707-8f7b-4a4438767835" />
 
 Overall, the Random Forest was proven to be my best performing model.
 
